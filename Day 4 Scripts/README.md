@@ -1,6 +1,8 @@
 # Day 4 — Causality, Confidence Intervals & Correlation
 
-Thursday 10 September 2026. Applies the sampling and distribution ideas from Day 3 to causal inference, estimation, and the relationship between variables.
+Thursday - 10 September 2026. 
+
+Applied the sampling and distribution ideas from Day 3 to causal inference, estimation and the relationship between variables.
 
 ## Sessions
 
