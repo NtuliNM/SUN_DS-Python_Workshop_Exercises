@@ -17,6 +17,6 @@ CSV files used across the workshop notebooks. Copy the relevant file(s) alongsid
 | `housing_data_sample.csv` | Day 5 (Session 3) |
 | `default of credit card clients.xls` | Day 5 (Session 4) |
 
-## Not yet included
+## Not Included
 
 - `loan_data_sample.csv` — used in the Day 5 Decision Trees (Session Extras) notebook, which hasn't been uploaded yet
