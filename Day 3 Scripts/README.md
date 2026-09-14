@@ -1,6 +1,8 @@
 # Day 3 — Sampling, Distributions & A/B Testing
 
-Wednesday 9 September 2026. Covers sampling from populations, comparing observed data against model distributions, and using simulation to test hypotheses.
+Wednesday - 9 September 2026. 
+
+Covered sampling from populations, comparing observed data against model distributions and using simulation to test hypotheses.
 
 ## Sessions
 
