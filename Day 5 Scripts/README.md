@@ -1,6 +1,8 @@
 # Day 5 — Introduction to Machine Learning
 
-Friday 11 September 2026. The final day, moving from correlation into supervised machine learning: regression, classification and decision trees, with `scikit-learn`.
+Friday - 11 September 2026. 
+
+The final day. Moved from correlation into supervised machine learning: regression, classification and decision trees, with `scikit-learn`.
 
 ## Sessions
 
