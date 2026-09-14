@@ -1,6 +1,6 @@
 # SUN Data Science with Python Workshop — Exercises
 
-Exercises (notebooks) completed during the **"Introduction to Data Science Using Python Workshop"** - A free 5-day online bootcamp run by the [School for Data Science and Computational Thinking](https://www.dataschool.sun.ac.za) at Stellenbosch University on 07–11 September 2026.
+Exercises (notebooks) completed during the **"Introduction to Data Science Using Python"** workshop - A free 5-day online bootcamp run by the [School for Data Science and Computational Thinking](https://www.dataschool.sun.ac.za) at Stellenbosch University on 07–11 September 2026.
 
 The workshop built up from basic Python programming to introductory machine learning, covering:
 
