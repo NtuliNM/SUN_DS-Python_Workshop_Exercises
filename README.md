@@ -1,6 +1,6 @@
 # SUN Data Science with Python Workshop — Exercises
 
-Exercises and worked notebooks from **"Introduction to Data Science Using Python,"** a free 5-day online bootcamp run by the [School for Data Science and Computational Thinking](https://www.dataschool.sun.ac.za) at Stellenbosch University, 7–11 September 2026.
+Exercises (notebooks) completed during the **"Introduction to Data Science Using Python Workshop"** - A free 5-day online bootcamp run by the [School for Data Science and Computational Thinking](https://www.dataschool.sun.ac.za) at Stellenbosch University on 07–11 September 2026.
 
 The workshop built up from basic Python programming to introductory machine learning, covering:
 
@@ -26,7 +26,7 @@ Each `Day N Scripts` folder has its own README describing that day's sessions. S
 
 ## Getting started
 
-The notebooks were built and run in Google Colab, and load data with relative paths, e.g. `pd.read_csv('olympics2024.csv')`. To run a notebook locally:
+The notebooks were built and run in Google Colab and load data with relative paths, e.g. `pd.read_csv('olympics2024.csv')`. To run a notebook locally:
 
 1. Clone this repo.
 2. Copy the CSV files it needs (see that day's README, or `Datasets/README.md`) into the same folder as the notebook, or update the `read_csv`/`read_excel` paths to point at `../Datasets/`.
@@ -42,7 +42,7 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn plotly
 
 ## Acknowledgements
 
-This bootcamp was run free of charge by the School for Data Science and Computational Thinking at Stellenbosch University, presented by:
+This bootcamp was run free of charge by the School for Data Science and Computational Thinking at Stellenbosch University and presented by:
 
 - Prof. Kanshukan Rajaratnam (Director, School for Data Science and Computational Thinking)
 - Dr. Sunday Oladejo
