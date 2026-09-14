@@ -1,6 +1,8 @@
 # Day 2 — Flowcharts, Conditionals, Functions & Chance
 
-Tuesday 8 September 2026. Moves from planning program logic into writing it — conditionals, loops and functions — then introduces probability.
+Tuesday - 8 September 2026. 
+
+Moved from planning program logic into writing it — conditionals, loops and functions; then introduces probability.
 
 ## Sessions
 
@@ -15,4 +17,4 @@ The `Templates/` folder also has starter versions of Sessions 2, 3 and 4.
 
 ## Datasets used
 
-None — this day is code-and-concepts focused, no CSV files loaded.
+None — this day was code-and-concepts focused, no CSV files loaded.
