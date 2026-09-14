@@ -1,6 +1,7 @@
 # Day 1 — Data Types, Tables, Groups & Visualization
 
-Monday 7 September 2026. First day, covering the basics of working with tabular data in Python before moving into grouping and visualization.
+Monday - 7 September 2026. 
+First day covered the basics of working with tabular data in Python before moving into grouping and data visualization.
 
 ## Sessions
 
